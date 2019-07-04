@@ -11,10 +11,10 @@ This repositroy shows fashion items data orientated Disco-GAN implementation by 
 
 # 1. Train
 ```bash
-python3 train.py --train_A <directory-first-database> --train_B <directory-second-databse --epochs 30 --batch_size 64
+python3 train.py --train_A <directory-first-database> --train_B <directory-second-databse --epochs <#> --batch_size <#>
 ```
 
-# 2. Result
+# 2. Training Result
 ***
 
 - First trial: using edges2handbags(first) and edges2shoes(second) - 2 and 26 Epochs
