@@ -40,3 +40,9 @@ python3 train.py --train_A <directory-first-database> --train_B <directory-secon
 ![cb-s-cb](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/cb-s-cb.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![s-cb-s](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/output_EP198_Batch000000.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![s-cb-s](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/s-cb-s.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+- Third trial: using brand logo(first) and soccer shoes(second) - around 5,700 images(shoes) - 8,000(brand logo)
+![logo-shoes](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/output_EP199_Batch000000_Logo_Shoes.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![logo-shoes-gif](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/logo-shoes.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![shoes-logo](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/output_EP189_Batch000000_Shoes_Logo.jpg)&nbsp;&nbsp;
+![shoes-logo-gif](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/shoes-logo.gif)
