@@ -11,7 +11,13 @@ This repositroy shows fashion items data orientated Disco-GAN implementation by 
 - By given 'unpaired data' GAN finds relations btw two diff domains
 - No pre-trained model required
 - Two diff GAN coupled together
-
+### Create own dataset
+- Construct feasible dataset requires intensive efforts. Following few ideas help you to build dataset
+- Offical paper's data uses at least 50,000 images(well organized and well formed) per item.
+- Use authentic and reliable crawler: recommend to use [AutoCrwaler](https://github.com/YoongiKim/AutoCrawler)
+- In keyword.txt, lists up auto-generated tags(from google image search) with original item that you are looking for
+  - EX) phone case, phone case aztec, phone case pattern, phone case flower, etc
+- This may help to build your dataset more robust and enough to be taken by trainning model 
 
 
 #### For more detail infos such as prerequisites, code descriptions, params setting, db setting, followed [this](https://github.com/HyeongminLEE/Tensorflow_DiscoGAN) link.
