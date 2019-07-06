@@ -44,5 +44,7 @@ python3 train.py --train_A <directory-first-database> --train_B <directory-secon
 - Third trial: using brand logo(first) and soccer shoes(second) - around 5,700 images(shoes) - 8,000(brand logo)
 ![logo-shoes](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/output_EP199_Batch000000_Logo_Shoes.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![logo-shoes-gif](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/logo-shoes.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![shoes-logo](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/output_EP189_Batch000000_Shoes_Logo.jpg)&nbsp;&nbsp;
+![shoes-logo](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/output_EP189_Batch000000_Shoes_Logo.jpg)&nbsp;
 ![shoes-logo-gif](https://github.com/hogyun3709/Disco-GAN-Tensorflow/blob/master/output/shoes-logo.gif)
+
+- 4th : (upcoming) using backpack and smartphone case (Collecting dataset at least 50,000+ images)
